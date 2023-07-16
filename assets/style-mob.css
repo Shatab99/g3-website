@@ -8,6 +8,7 @@
      .banner-des{
          width: 570px;
          font-size: 2rem;
+         
      }
      nav{
          flex-direction: column;
@@ -15,13 +16,12 @@
      /*main section  */
     .team{
      flex-direction: column;
+     width: 576px;
     }
    .team-img{
      grid-template-columns: 1fr;
-     margin-left: 450px;
-     
-     
-     
+     margin-left: 280px;
+    
    }
  
 .team-img img{
@@ -31,9 +31,12 @@
 
 
 .team-content{
-    margin-left: 250px;
+    margin-left: 150px;
     text-align: center;
     /* width: 400px; */
+    
+    
+
     
 }
 
@@ -49,8 +52,8 @@
 
 .btn-primary{
     font-size: 2rem;
-    padding: 40px 100px;
-    margin-top: 20px;
+    padding: 50px 120px;
+    margin: 40px;
 }
 
 
