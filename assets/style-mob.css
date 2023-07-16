@@ -18,7 +18,7 @@
     }
    .team-img{
      grid-template-columns: 1fr;
-     margin-left: 420px;
+     margin-left: 450px;
      
      
      
@@ -26,6 +26,7 @@
  
 .team-img img{
     width: 35em;
+    
 }
 
 
