@@ -88,11 +88,11 @@ main{
 .team{
     display: flex;
     align-items: center;
+}
     
 
 .team-img img{
-    width: 110%;
-    height: 110%;
+    width: 10em;
 }
 
 .team-img{
@@ -103,7 +103,7 @@ main{
 .team-img{
     display: grid;
     grid-template-columns: repeat(2,1fr);
-    gap: 1.8rem ;
+    gap: 10px  10px;
 }
 /*  team content*/
 
@@ -137,39 +137,3 @@ main{
 
 
 
- /*---------- For resposive-------- */
-
-/* Mobile */
-
- @media screen and (max-width:576px) {
-    header{
-        padding: 20px ;
-        width: 576px;
-        
-    } 
-    .banner-des{
-        width: 580px;
-    }
-    nav{
-        flex-direction: column;
-    }
-    
-  
- }
-
- /* tablet phone */
-
- @media screen and (min-width : 577px) and (max-width:992px) {
-    
-    header{
-        padding: 40px;
-    }
-    
-    nav{
-        flex-direction: column;
-    }
- }
-
-
-
-}

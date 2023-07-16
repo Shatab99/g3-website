@@ -1,0 +1,35 @@
+@media screen and (max-width: 576px) {
+    /* header  part */
+     header{
+         padding: 20px ;
+         width: 576px;
+         
+     } 
+     .banner-des{
+         width: 570px;
+     }
+     nav{
+         flex-direction: column;
+     }
+     /*main section  */
+    .team{
+     flex-direction: column;
+    }
+   .team-img{
+     grid-template-columns: 1fr;
+     
+   }
+ 
+.team-img img{
+    width: 20em;
+}
+
+.team-content-des{
+    width: ;
+
+}
+
+
+
+
+  }

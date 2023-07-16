@@ -1,0 +1,13 @@
+@media screen and (min-width : 577px) and (max-width:992px) {
+    
+    header{
+        padding: 40px;
+    }
+    
+    nav{
+        flex-direction: column;
+    }
+ }
+
+
+
