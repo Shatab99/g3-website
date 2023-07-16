@@ -17,6 +17,7 @@
     }
    .team-img{
      grid-template-columns: 1fr;
+     margin-left: 400px;
      
    }
  
@@ -24,11 +25,18 @@
     width: 20em;
 }
 
-.team-content-des{
-    width: ;
 
+.team-content{
+    margin-left: 250px;
+    text-align: center;
 }
 
+.team-content-head{
+    width: 600px;
+}
+.team-content-des{
+    width: 550px;
+}
 
 
 
