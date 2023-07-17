@@ -63,4 +63,23 @@
 }
 
 
+/* Feature part */
+
+.feature{
+    max-width: 576px;
+    flex-direction: column;
+    font-size: 2.7rem;
+    
+}
+
+.feature-img img{
+    width: 100%;
+}
+.feature-content{
+    margin-left: 250px;
+}
+
+
+
+
   }
