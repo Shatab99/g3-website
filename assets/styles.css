@@ -211,3 +211,54 @@
 
 
 
+/* Sponsor section */
+
+.sponsor{
+    max-width: 1440px;
+   
+
+}
+
+.sponsor-content{
+    text-align: center;
+    padding: 50px 400px;
+    
+}
+
+.sponsor-content h1{
+    font-weight: 600;
+    font-size: 1.8rem;
+}
+.sponsor-content p{
+    font-size: .6rem;
+    margin-top: 15px;
+    padding: 0px 60px;
+}
+
+.sponsor-img{
+    display: flex;
+    justify-content:  space-around;
+    gap: 20px;
+    padding: 0px 200px;
+}
+
+.sponsor-img img{
+    width: 10%;
+}
+
+
+/* Footer  */
+
+footer{
+    max-width: 1440px;
+}
+
+footer p{
+    width: 500px;
+    background-color: #FFF4E7;
+    border-radius: 8px;
+    padding: 30px 200px;
+    margin: 40px auto ;
+    font-size: .6rem;
+    text-align: center;
+}
