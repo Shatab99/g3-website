@@ -81,5 +81,48 @@
 
 
 
+/* sponsor  part */
+
+.sponsor{
+    width: 30%;
+}
+
+
+.sponsor-content{
+    width: 400px;
+    text-align: justify;
+    padding: 30px 20px;
+    
+}
+
+.sponsor-content h1{
+    font-size: 3rem;
+    margin-left: 55px;
+}
+.sponsor-content p{
+    font-size: 1.5rem;
+    width: 418px;
+  
+}
+.sponsor-img{
+    flex-direction: column;
+    margin: 36px 107px;
+    row-gap: 70px;
+}
+.sponsor-img img{
+    width: 11rem;
+    margin-left: -100px;
+}
+/* Footer  */
+footer{
+    max-width: 576px;
+    margin-left: 21px;
+}
+
+footer p{
+    padding: 50px 20px;
+    font-size: 1.2rem;
+    margin-left: 21px ;
+}
 
   }
