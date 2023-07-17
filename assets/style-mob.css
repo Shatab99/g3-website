@@ -14,14 +14,20 @@
          flex-direction: column;
      }
      /*main section  */
-    .team{
+   
+   main{
+    max-width: 576px;
+   }
+   
+   
+     .team{
      flex-direction: column;
      width: 576px;
     }
    .team-img{
      grid-template-columns: 1fr;
-     margin-left: 280px;
-    
+     margin-left: 250px;
+
    }
  
 .team-img img{
